@@ -119,7 +119,6 @@ func main() {
 					TraitType: attri[0],
 					Value:     attri[1],
 				}
-				fmt.Println(at)
 				items = append(items, at)
 			}
 
