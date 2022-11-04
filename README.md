@@ -18,7 +18,7 @@
 ### Result
 
 
-A new folder will be created with the json files of the nfts.  An output.cs file will also be created that contains the sha265 hash of the json files.
+A new folder will be created with the json files of the nfts.  An output.csv file will also be created that contains the sha265 hash of the json files.
 
 
 
