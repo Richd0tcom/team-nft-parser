@@ -1,0 +1,22 @@
+{
+  "format": "CHIP-0007",
+  "name": "wendy the  banker",
+  "description": "Wendy loves working in the bank, as she gets to meet different people.",
+  "minting_tool": "Team Scale",
+  "sensitive_content": false,
+  "series_number": 301,
+  "series_total": 420,
+  "attributes": [],
+  "collection": {
+    "name": "Zuri NFT Tickets for Free Lunch",
+    "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "Rewards for accomplishments during HNGi9."
+      }
+    ]
+  },
+  "gender": "Female",
+  "uuid": "587645e2-5ace-11ed-9b6a-0242ac120002"
+}

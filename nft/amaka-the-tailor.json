@@ -1,0 +1,22 @@
+{
+  "format": "CHIP-0007",
+  "name": "amaka the tailor",
+  "description": "She sews the most beautiful dress in the hood",
+  "minting_tool": "Team Scale",
+  "sensitive_content": false,
+  "series_number": 320,
+  "series_total": 420,
+  "attributes": [],
+  "collection": {
+    "name": "Zuri NFT Tickets for Free Lunch",
+    "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "Rewards for accomplishments during HNGi9."
+      }
+    ]
+  },
+  "gender": "Female",
+  "uuid": "cef9091a-5afc-11ed-9b6a-0242ac120002"
+}

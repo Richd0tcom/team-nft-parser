@@ -1,0 +1,22 @@
+{
+  "format": "CHIP-0007",
+  "name": "izuchukwu the fisherman",
+  "description": "A fisherman who knows how to paddle well",
+  "minting_tool": "Team Hydraulics",
+  "sensitive_content": false,
+  "series_number": 294,
+  "series_total": 420,
+  "attributes": [],
+  "collection": {
+    "name": "Zuri NFT Tickets for Free Lunch",
+    "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "Rewards for accomplishments during HNGi9."
+      }
+    ]
+  },
+  "gender": "Male",
+  "uuid": "15e1caf2-06b3-45d8-9b35-f95965b64e34"
+}

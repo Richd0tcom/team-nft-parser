@@ -1,0 +1,22 @@
+{
+  "format": "CHIP-0007",
+  "name": "bella the artist",
+  "description": "A lady that host a fashion week show",
+  "minting_tool": "Team Hydraulics",
+  "sensitive_content": false,
+  "series_number": 282,
+  "series_total": 420,
+  "attributes": [],
+  "collection": {
+    "name": "Zuri NFT Tickets for Free Lunch",
+    "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "Rewards for accomplishments during HNGi9."
+      }
+    ]
+  },
+  "gender": "Female",
+  "uuid": "48772412-dacb-4984-9e82-8d24fe101265"
+}
